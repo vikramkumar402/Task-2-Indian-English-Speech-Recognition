@@ -116,7 +116,7 @@ This structured use of the dataset helps in pinpointing the strengths and limita
   </tr>
   <tr>
     <td>Speech Recognition</td>
-    <td>Wav2Vec2 (facebook/wav2vec2-large-960h-lv60-self)</td>
+    <td>Wav2Vec2</td>
     <td>Used for accurate speech-to-text conversion.</td>
   </tr>
   <tr>
