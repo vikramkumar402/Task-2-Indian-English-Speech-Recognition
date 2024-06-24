@@ -116,7 +116,7 @@ This structured use of the dataset helps in pinpointing the strengths and limita
   </tr>
   <tr>
     <td>Speech Recognition</td>
-    <td>Wav2Vec2</td>
+    <td>Wav2Vec2 (facebook/wav2vec2-large-960h-lv60-self)</td>
     <td>Used for accurate speech-to-text conversion.</td>
   </tr>
   <tr>
@@ -132,6 +132,8 @@ This structured use of the dataset helps in pinpointing the strengths and limita
 </table>
 
 
+
+
 ## Results
 
 The performance of the speech recognition model was evaluated using the Word Error Rate (WER), which is a common metric in speech recognition that measures the minimal number of word insertions, deletions, and substitutions required to change the recognized text into the reference text.
@@ -144,7 +146,7 @@ These results indicate the accuracy level of the transcription of audio from the
 
 ## Conclusion
 
-Summary of findings and potential improvements for enhancing the accuracy of speech recognition on Indian English accents.
+The Wav2Vec2 model, specifically the facebook/wav2vec2-large-960h-lv60-self variant, demonstrated robust performance in transcribing Indian English accents. The achieved Word Error Rate (WER) of 0.274513 on the Pure-Set subset indicates a reasonable accuracy level for speech recognition tasks in diverse audio conditions.
 
 ## Contributing
 
