@@ -146,7 +146,7 @@ These results indicate the accuracy level of the transcription of audio from the
 
 ## Conclusion
 
-The Wav2Vec2 model, specifically the facebook/wav2vec2-large-960h-lv60-self variant, demonstrated robust performance in transcribing Indian English accents. The achieved Word Error Rate (WER) of 0.274513 on the Pure-Set subset indicates a reasonable accuracy level for speech recognition tasks in diverse audio conditions.
+The Wav2Vec2 model, specifically the `facebook/wav2vec2-large-960h-lv60-self` variant, demonstrated robust performance in transcribing Indian English accents. The achieved Word Error Rate (WER) of 0.274513 on the Pure-Set subset indicates a reasonable accuracy level for speech recognition tasks in diverse audio conditions.
 
 ## Contributing
 
